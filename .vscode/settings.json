@@ -83,6 +83,8 @@
         "/home/mystik/Downloads/selenium-java-4.8.1/selenium-safari-driver-4.8.1.jar",
         "/home/mystik/Downloads/selenium-java-4.8.1/selenium-safari-driver-4.8.1-sources.jar",
         "/home/mystik/Downloads/selenium-java-4.8.1/selenium-support-4.8.1.jar",
-        "/home/mystik/Downloads/selenium-java-4.8.1/selenium-support-4.8.1-sources.jar"
+        "/home/mystik/Downloads/selenium-java-4.8.1/selenium-support-4.8.1-sources.jar",
+        "/home/mystik/Downloads/htmlunit-driver-4.8.0.jar",
+        "/home/mystik/Downloads/htmlunit-driver-4.8.0-jar-with-dependencies.jar"
     ]
 }

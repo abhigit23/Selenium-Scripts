@@ -21,6 +21,8 @@ public class TakeScreenshotConcept {
 
         // Take screenshot and save as file format
         File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+        
+        // now copy the screenshot to desired location using FileHandler.copy method
         FileHandler.copy(src, new File("/home/mystik/Pictures/brave.png"));
     }
 }
