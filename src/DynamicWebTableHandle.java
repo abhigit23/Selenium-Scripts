@@ -35,7 +35,7 @@ public class DynamicWebTableHandle {
         //     }
         // }
 
-        // Method 2 :- Using Dynamic Xpath
+        // Method 2 :- Using Dynamic Custom Xpath
         driver.findElement(By.xpath("//td[contains(text(),'Bruno Nash')]//preceding-sibling::td[contains(@class,'  select-checkbox')]")).click();
     }
 }
